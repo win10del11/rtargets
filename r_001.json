@@ -1,7 +1,7 @@
 [
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://www.31stk.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 80, "url": "http://internet-belgorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://inetspace.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belgorod-netbynet.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.253.181.10","port": 443, "url": "https://www.31stk.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"87.236.19.158","port": 80, "url": "http://internet-belgorod.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"37.140.192.138","port": 443, "url": "https://inetspace.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"5.188.29.153","port": 443, "url": "https://belgorod-netbynet.ru/"},
   {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/"}
 ]
