@@ -4,6 +4,7 @@
   {"kind":"http_stress","method":"GET","ip":"37.140.192.138","port": 443, "url": "https://inetspace.ru/"},
   {"kind":"http_stress","method":"GET","ip":"5.188.29.153","port": 443, "url": "https://belgorod-netbynet.ru/"},
   {"kind":"http_stress","method":"GET","ip":"194.58.120.173","port": 443, "url": "https://netbynet-pro.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"185.148.38.224","port": 443, "url": "https://netbynet.info/"},  
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/"}
+  {"kind":"http_stress","method":"GET","ip":"185.148.38.224","port": 443, "url": "https://netbynet.info/"},
+  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://belrts.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 80, "url": "http://cdnvideo.ru/"}
 ]
