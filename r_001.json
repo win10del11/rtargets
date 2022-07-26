@@ -9,6 +9,5 @@
   {"kind":"http_stress","method":"GET","ip":"45.130.41.77","port": 443, "url": "https://alushta24.org/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"89.108.106.141","port": 443, "url": "https://lastochca.ru/"},
   {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"}
 ]
