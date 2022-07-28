@@ -17,5 +17,6 @@
   {"kind":"http_stress","method":"GET","ip":"45.130.41.182","port": 443, "url": "https://bagat.kz/"},
   {"kind":"http_stress","method":"GET","ip":"81.200.114.175","port": 443, "url": "https://bagat.su/"},
   {"kind":"http_stress","method":"GET","ip":"176.57.216.15","port": 443, "url": "https://khv.aero/"},
-  {"kind":"http_stress","method":"GET","ip":"91.106.206.229","port": 443, "url": "https://khab-vc.ru/"}
+  {"kind":"http_stress","method":"GET","ip":"91.106.206.229","port": 443, "url": "https://khab-vc.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"91.106.200.214","port": 443, "url": "https://sphk.ru/"}
 ]
