@@ -18,7 +18,6 @@
   {"kind":"http_stress","method":"GET","ip":"81.200.114.175","port": 443, "url": "https://bagat.su/"},
   {"kind":"http_stress","method":"GET","ip":"176.57.216.15","port": 443, "url": "https://khv.aero/"},
   {"kind":"http_stress","method":"GET","ip":"91.106.206.229","port": 443, "url": "https://khab-vc.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"91.106.200.214","port": 443, "url": "https://sphk.ru/"},
   {"kind":"http_stress","method":"GET","ip":"46.61.164.66","port": 443, "url": "https://www.stpku.ru/"},
   {"kind":"http_stress","method":"GET","ip":"93.95.101.101","port": 80, "url": "http://www.1pku.ru/"}
 ]
