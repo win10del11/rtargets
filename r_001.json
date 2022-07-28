@@ -16,5 +16,6 @@
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"45.130.41.182","port": 443, "url": "https://bagat.kz/"},
   {"kind":"http_stress","method":"GET","ip":"81.200.114.175","port": 443, "url": "https://bagat.su/"},
-  {"kind":"http_stress","method":"GET","ip":"135.181.138.244","port": 443, "url": "https://27r.ru/"}  
+  {"kind":"http_stress","method":"GET","ip":"135.181.138.244","port": 443, "url": "https://27r.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"80.92.164.67","port": 443, "url": "https://www.dvnovosti.ru/"}
 ]
