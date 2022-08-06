@@ -18,5 +18,6 @@
   {"kind":"http_stress","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.221.212.66","port": 443, "url": "https://anticwar.ru/"},
   {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"}
 ]
