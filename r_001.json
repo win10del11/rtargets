@@ -11,8 +11,8 @@
   {"kind":"http_flood","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_flood","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
   {"kind":"http_flood","method":"GET","ip":"185.221.212.66","port": 443, "url": "https://anticwar.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"31.184.211.222","port": 443, "url": "https://www.9111.ru"},
   {"kind":"http_flood","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_flood","method":"GET","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"}
+  {"kind":"http_flood","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"31.184.211.222","port": 443, "url": "https://www.9111.ru"}
 ]
