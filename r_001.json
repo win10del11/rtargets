@@ -5,7 +5,6 @@
   {"kind":"http_flood","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
   {"kind":"http_flood","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
   {"kind":"http_flood","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"},
-  {"kind":"http_flood","method":"GET","ip":"87.236.16.130","port": 443, "url": "https://online-vokzal.ru/"},
   {"kind":"http_flood","method":"GET","ip":"87.236.16.254","port": 443, "url": "https://avtovokzal-anapa.ru/"},
   {"kind":"http_flood","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
   {"kind":"http_flood","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
