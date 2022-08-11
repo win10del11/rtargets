@@ -1,6 +1,0 @@
-[
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://www.avito.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://vkusvill.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://chaihona.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"127.0.0.1","port": 443, "url": "https://www.delivery-club.ru/"}
-]
