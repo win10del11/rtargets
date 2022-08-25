@@ -13,7 +13,6 @@
   {"kind":"http_flood","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_flood","method":"POST","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.225.35.75","port": 443, "url": "https://delta.milgov.site"},  
   {"kind":"http_flood","method":"GET","ip":"13.88.179.33","port": 443, "url": "https://masterok.livejournal.com/"},
   {"kind":"http_flood","method":"GET","ip":"81.19.74.0","port": 443, "url": "https://masterok.livejournal.com/"},
   {"kind":"http_flood","method":"GET","ip":"81.19.74.1","port": 443, "url": "https://masterok.livejournal.com/"},
