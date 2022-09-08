@@ -22,5 +22,6 @@
   {"kind":"http_flood","method":"GET","ip":"81.19.74.3","port": 443, "url": "https://masterok.livejournal.com/"},
   {"kind":"http_flood","method":"GET","ip":"81.19.74.4","port": 443, "url": "https://masterok.livejournal.com/"},
   {"kind":"http_flood","method":"GET","ip":"81.19.74.5","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.6","port": 443, "url": "https://masterok.livejournal.com/"}
+  {"kind":"http_flood","method":"GET","ip":"81.19.74.6","port": 443, "url": "https://masterok.livejournal.com/"},
+  {"kind":"http_flood","method":"GET","ip":"5.101.153.232","port": 443, "url": "https://vokzalzhd.ru/"}
 ]
