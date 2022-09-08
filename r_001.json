@@ -15,13 +15,5 @@
   {"kind":"http_flood","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_flood","method":"POST","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"13.88.179.33","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.0","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.1","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.2","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.3","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.4","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.5","port": 443, "url": "https://masterok.livejournal.com/"},
-  {"kind":"http_flood","method":"GET","ip":"81.19.74.6","port": 443, "url": "https://masterok.livejournal.com/"},
   {"kind":"http_flood","method":"GET","ip":"5.101.153.232","port": 443, "url": "https://vokzalzhd.ru/"}
 ]
