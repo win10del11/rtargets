@@ -7,5 +7,6 @@
   {"kind":"http_flood","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_flood","method":"GET","ip":"193.233.15.121","port": 443, "url": "https://wagner2022.ru/"},
   {"kind":"http_flood","method":"GET","ip":"5.101.153.232","port": 443, "url": "https://vokzalzhd.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"51.159.57.9","port": 443, "url": "https://taxinomerok.ru/"}
+  {"kind":"http_flood","method":"GET","ip":"51.159.57.9","port": 443, "url": "https://taxinomerok.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"94.26.241.164","port": 443, "url": "https://www.bankturov.ru/"}
 ]
