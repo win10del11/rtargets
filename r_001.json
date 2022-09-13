@@ -5,5 +5,6 @@
   {"kind":"http_flood","method":"GET","ip":"83.246.129.155","port": 443, "url": "https://e-traffic.ru/"},
   {"kind":"http_flood","method":"GET","ip":"109.195.238.146","port": 443, "url": "https://donavto.ru/"},
   {"kind":"http_flood","method":"GET","ip":"80.68.11.71","port": 443, "url": "https://www.donbilet.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"92.53.96.242","port": 443, "url": "https://avtovokzal-31.ru/"}
+  {"kind":"http_flood","method":"GET","ip":"92.53.96.242","port": 443, "url": "https://avtovokzal-31.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"130.193.38.191","port": 443, "url": "https://buspay.ru/"}
 ]
