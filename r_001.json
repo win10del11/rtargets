@@ -1,6 +1,5 @@
 [
   {"kind":"http_flood","method":"GET","ip":"193.233.15.121","port": 443, "url": "https://wagner2022.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.178.208.153","port": 443, "url": "https://kcpn.info/"},
   {"kind":"http_flood","method":"GET","ip":"92.53.96.174","port": 443, "url": "https://avtovokzal61.ru/"},
   {"kind":"http_flood","method":"GET","ip":"83.246.129.155","port": 443, "url": "https://e-traffic.ru/"},
   {"kind":"http_flood","method":"GET","ip":"109.195.238.146","port": 443, "url": "https://donavto.ru/"},
