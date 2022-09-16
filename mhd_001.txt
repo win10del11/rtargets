@@ -3,3 +3,4 @@ https://zvezdaweekly.ru/
 https://peregovorschik.com/
 https://lutercompany.ru/
 https://www.voenkoma.net/
+tcp://45.130.41.19:443
