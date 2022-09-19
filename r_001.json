@@ -1,6 +1,6 @@
 [
   {"kind":"http_flood","method":"GET","ip":"178.248.234.76","port": 443, "url": "https://zvezdaweekly.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"193.233.15.121","port": 443, "url": "https://wagner2022.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
   {"kind":"http_flood","method":"GET","ip":"92.53.114.107","port": 443, "url": "https://peregovorschik.com/"},
   {"kind":"http_flood","method":"GET","ip":"46.174.50.8","port": 443, "url": "https://lutercompany.ru/"},
   {"kind":"http_flood","method":"GET","ip":"45.130.41.19","port": 443, "url": "https://www.voenkoma.net/"},
