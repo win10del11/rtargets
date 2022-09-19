@@ -3,7 +3,7 @@ https://zvezdaweekly.ru/
 https://peregovorschik.com/
 https://lutercompany.ru/
 tcp://45.130.41.19:443
-tcp://193.233.15.121:443
+tcp://109.68.214.200:443
 tcp://178.248.234.76:443
 tcp://92.53.114.107:443
 tcp://46.174.50.8:443
