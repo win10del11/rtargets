@@ -2,7 +2,7 @@
   {"kind":"http_flood","method":"GET","ip":"82.146.58.27","port": 443, "url": "https://rsb-group.org/"},
   {"kind":"http_flood","method":"GET","ip":"82.146.58.27","port": 443, "url": "https://rsb-group.ru/"},
   {"kind":"http_flood","method":"GET","ip":"82.146.58.27","port": 443, "url": "https://rsb-training.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 443, "url": "http://vegacyltd.com/"},
+  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 80, "url": "http://vegacyltd.com/"},
   {"kind":"http_flood","method":"GET","ip":"185.32.58.165","port": 443, "url": "https://obereg124.ru/"},
   {"kind":"http_flood","method":"GET","ip":"92.53.114.107","port": 443, "url": "https://peregovorschik.com/"},
   {"kind":"http_flood","method":"GET","ip":"178.248.234.76","port": 443, "url": "https://zvezdaweekly.ru/"},
