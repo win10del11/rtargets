@@ -8,7 +8,7 @@ https://zvezdaweekly.ru/
 https://www.voentorgmag.ru/
 https://voenrus.ru/
 https://batalion.shop/
-tcp://85.119.149.173/ 
+tcp://85.119.149.173:443/
 https://labpps.ru/
 https://ratniksafe.ru/
 https://rarog.pro/
