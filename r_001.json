@@ -12,7 +12,5 @@
   {"kind":"http_flood","method":"GET","ip":"85.119.149.173","port": 443, "url": "https://voenshop51.ru/ "},
   {"kind":"http_flood","method":"GET","ip":"89.111.132.174","port": 443, "url": "https://labpps.ru/"},
   {"kind":"http_flood","method":"GET","ip":"80.87.203.181","port": 443, "url": "https://ratniksafe.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"85.92.118.72","port": 443, "url": "https://rarog.pro/"},
-  {"kind":"http_flood","method":"GET","ip":"87.236.16.222","port": 443, "url": "https://militarysale.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"172.67.139.196","port": 8080, "url": "http://militarysale.ru/"}
+  {"kind":"http_flood","method":"GET","ip":"85.92.118.72","port": 443, "url": "https://rarog.pro/"}
 ]
