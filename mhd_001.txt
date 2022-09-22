@@ -1,14 +1,2 @@
-https://rsb-group.org/
-https://rsb-group.ru/
-https://rsb-training.ru/
-http://vegacyltd.com/
-https://obereg124.ru/
-https://peregovorschik.com/
-https://zvezdaweekly.ru/
-https://www.voentorgmag.ru/
-https://voenrus.ru/
-https://batalion.shop/
-tcp://85.119.149.173:443/
-https://labpps.ru/
-https://ratniksafe.ru/
-https://rarog.pro/
+https://87.236.16.222:443
+http://172.67.139.196:8080
