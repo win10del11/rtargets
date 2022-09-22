@@ -1,8 +1,4 @@
 [
-  {"kind":"http_flood","method":"GET","ip":"87.236.16.222","port": 443, "url": "https://87.236.16.222"},
-  {"kind":"http_flood","method":"GET","ip":"172.67.139.196","port": 8080, "url": "http://172.67.139.196"},
-  {"kind":"http_flood","method":"GET","ip":"87.236.16.222","port": 443, "url": "https://87.236.16.222"},
-  {"kind":"http_flood","method":"GET","ip":"172.67.139.196","port": 8080, "url": "http://172.67.139.196"},
-  {"kind":"http_flood","method":"GET","ip":"87.236.16.222","port": 443, "url": "https://87.236.16.222"},
-  {"kind":"http_flood","method":"GET","ip":"172.67.139.196","port": 8080, "url": "http://172.67.139.196"}
+  {"kind":"http_flood","method":"GET","ip":"87.236.16.222","port": 443, "url": "https://militarysale.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"172.67.139.196","port": 8080, "url": "https://militarysale.ru/ "}
 ]
