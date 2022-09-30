@@ -33,7 +33,7 @@
   {"kind":"http_flood","method":"GET","ip":"31.31.198.225","port": 443, "url": "https://voensklad.su/"},
   {"kind":"http_flood","method":"GET","ip":"91.201.52.244","port": 443, "url": "https://xn--72-6kc1cjm0a.xn--p1ai/"},
   {"kind":"http_flood","method":"GET","ip":"83.69.230.9","port": 80, "url": "http://voentorg-sochi.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"159.255.25.50","port": 443, "url": "https://arsenal.army/"},
+  {"kind":"http_flood","method":"GET","ip":"78.155.198.218","port": 443, "url": "https://arsenal.army/"},
   {"kind":"http_flood","method":"GET","ip":"31.31.198.222","port": 443, "url": "https://militarymarket.ru/"},
   {"kind":"http_flood","method":"GET","ip":"80.87.203.152","port": 443, "url": "https://voen36.ru/"},
   {"kind":"http_flood","method":"GET","ip":"91.189.114.19","port": 443, "url": "https://kapterka.com/"},
