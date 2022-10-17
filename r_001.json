@@ -44,5 +44,5 @@
   {"kind":"http_flood","method":"GET","ip":"85.119.149.173","port": 443, "url": "https://allmulticam.ru/"},
   {"kind":"http_flood","method":"GET","ip":"85.119.149.173","port": 443, "url": "https://voenka.pro/"},
   {"kind":"http_flood","method":"GET","ip":"46.148.236.53","port": 443, "url": "https://www.splav.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"92.53.79.138","port": 443, "url": "https://www.kamo-uniforma.ru/"},
+  {"kind":"http_flood","method":"GET","ip":"92.53.79.138","port": 443, "url": "https://www.kamo-uniforma.ru/"}
 ]
