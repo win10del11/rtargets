@@ -1,4 +1,3 @@
-https://www.drom.ru/
 https://gibdd-oficial.ru/
 https://gibdd-ekaterinburg.ru/
 tcp://142.132.131.205:443/
