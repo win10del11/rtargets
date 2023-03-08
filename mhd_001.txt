@@ -1,4 +1,5 @@
 https://tatarstan.ru/
+tcp://85.233.75.12:443/
 https://gibdd.tatarstan.ru/
 https://gibdd-oficial.ru/
 https://gibdd-ekaterinburg.ru/
