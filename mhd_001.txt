@@ -1,4 +1,4 @@
 https://gibdd-oficial.ru/
 https://gibdd-ekaterinburg.ru/
-https://www.ekburg.ru/
+tcp://91.226.31.82:443/
 https://serpuhov-city.com/
