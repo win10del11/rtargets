@@ -1,4 +1,5 @@
 https://gibdd-oficial.ru/
 https://gibdd-ekaterinburg.ru/
-tcp://91.226.31.82:443/
+tcp://142.132.131.205:443/
+https://gosuslugi-gibdd.ru/
 https://serpuhov-city.com/
